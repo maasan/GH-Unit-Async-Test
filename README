@@ -1,0 +1,9 @@
+- Build Environment
+
+-- Xcode 4.2 beta2
+-- gh-unit 0.4.31
+
+- Summary
+
+This is an example of unit testing code using gh-unit.
+This example includes a test case for Asynchronous API.
